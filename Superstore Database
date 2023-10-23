@@ -28,6 +28,7 @@ VALUES
     (15, 'Cozy Throw Blanket', 'Furnishings', 24.99, 100, 4.2);
 
 
+
 #Use a SELECT statement to order the items by price.
 SELECT (price), item_name
 FROM superstore
